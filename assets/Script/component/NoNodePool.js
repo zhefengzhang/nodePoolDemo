@@ -6,7 +6,6 @@ cc.Class({
         regionOrigin: cc.Vec2,
         regionSize: cc.Size,
         countLbl: cc.Label,
-        loadTimeLbl: cc.Label
     },
 
     // use this for initialization

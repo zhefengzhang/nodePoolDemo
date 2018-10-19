@@ -1,4 +1,4 @@
-var Helpers = require('./Helpers');
+var Helpers = require('Helpers');
 
 cc.Class({
     extends: cc.Component,

@@ -1,7 +1,13 @@
 {
-  "ver": "1.0.0",
+  "ver": "1.1.40",
+  "importer": "prefab",
+  "imported": true,
   "uuid": "a155a7be-f720-4d82-a616-e27ff3dab09a",
-  "optimizationPolicy": "AUTO",
-  "asyncLoadAssets": false,
-  "subMetas": {}
+  "files": [
+    ".json"
+  ],
+  "subMetas": {},
+  "userData": {
+    "syncNodeName": "MonsterPrefab"
+  }
 }

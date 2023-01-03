@@ -1,0 +1,14 @@
+{
+  "layer": [
+    {
+      "name": "default",
+      "value": 1
+    }
+  ],
+  "general": {
+    "designResolution": {
+      "fitWidth": false,
+      "fitHeight": true
+    }
+  }
+}
